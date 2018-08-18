@@ -1,0 +1,75 @@
+body {
+	background-color: #cccccc;
+}
+.main {
+	background-color: white;
+	display: block;
+	width: 500px;
+	margin: 10px auto;
+	height: 400px;
+	padding: 10px;
+
+}
+
+h1{
+	text-align: center;
+}
+
+#btns {
+	display: block;
+	margin-left:  100px;
+}
+#btn {
+	display: inline-block;
+
+	width: 100px;
+	height: 30px;
+	margin-top:  10px;
+	padding-top: 5px; 
+	background-color: #008cf0;
+	text-align: center;
+	vertical-align: middle; 
+	border: 1px solid black;
+	border-radius: 5px;
+	text-decoration: none;
+	color : white;
+	
+}
+#btnC{
+	border-radius: 5px;
+	display: inline-block;
+
+	text-align: center;
+	vertical-align: middle; 
+	border: 1px solid black;
+	text-decoration: none;
+	
+	padding-top: 5px; 
+	margin-top: 10px;
+	color : black;
+	width: 200px;
+	height: 30px;
+
+}
+input{
+	margin-bottom: 10px;
+}
+#forms {
+	display: block;
+	margin: 15px 150px;
+}
+#signin{
+		display: none;
+
+}
+#signup{
+		display: none;
+}
+
+#list{
+	
+	clear: both; 
+
+}
+
+
